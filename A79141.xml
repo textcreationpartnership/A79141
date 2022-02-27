@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties two proclamations to the counties of Southampton and Dorset: declaring his grace, favour, and pardon to the inhabitants of the said counties. Given at his court at Reading, the 28 of November, in the 18 yeer of his reign. 1642. God save the king.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79141</idno>
+            <idno type="STC">Wing C2860</idno>
+            <idno type="STC">Thomason E129_11</idno>
+            <idno type="STC">ESTC R2172</idno>
+            <idno type="EEBO-CITATION">99871486</idno>
+            <idno type="PROQUEST">99871486</idno>
+            <idno type="VID">156275</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156275)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties two proclamations to the counties of Southampton and Dorset: declaring his grace, favour, and pardon to the inhabitants of the said counties. Given at his court at Reading, the 28 of November, in the 18 yeer of his reign. 1642. God save the king.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Oxford [i.e. London?] :</pubPlace>
+                  <date>Printed, anno 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This reprint was not printed at Oxford, but is a careless London reproduction"  cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dorset (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Southampton (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156275:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>HIS MAIESTIES TWO PROCLAMATIONS To the Counties of SOUTHAMPTON and DORSET: Declaring His Grace, Favour, and Pardon to the Inhabitants of the ſaid Counties.</p>
+            <p>Given at His Court at <hi>Reading,</hi> the  28 of Novem<g ref="char:EOLhyphen"/>ber, in the 18 Yeer of His Reign. 1642.</p>
+            <p>God ſave the King.</p>
+            <p>
+               <date>
+                  <add>Decemb: 8</add>
+               </date>OXFORD: Printed, Anno 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:156275:2"/>
+            <!-- PDF PAGE 104 -->
+            <pb n="3" facs="tcp:156275:2"/>
+            <!-- PDF PAGE 104 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">A Proclamation of His Majeſties Grace, Fa<g ref="char:EOLhyphen"/>vour, and Pardon to the Inhabitants of His County of <hi>Southampton.</hi>
+            </head>
+            <p>WHereas We have taken notice, that by the Malice, Imnduſtry and opportunity of ſe<g ref="char:EOLhyphen"/>verall ill-affected and ſeditious perſons in Our County of <hi>Soutpamdton,</hi> very many of Our weak and ſeduced Subjects of that Our County have not only been drawn to exerciſe the <hi>Militia,</hi> under colour of a pretended ordinance, without and againſt Our Conſent (a Crime of a very high nature, if we ſhould ſtrictly enquire rhereinto) but have made many Contributions of Plate, Money, and Horſes towards the maintenance of the Army now in Rebellion againſt Us; We do hereby publiſh and Declare; That we are graci<g ref="char:EOLhyphen"/>ouſly pleaſed to attribute the Crimes and Offen<g ref="char:EOLhyphen"/>ces of Our ſaid Subjects of that County to the power and Faction of their ſeducers, Who, we be<g ref="char:EOLhyphen"/>lieve, by threats, Menaces, and falſe Informati<g ref="char:EOLhyphen"/>ons
+<pb n="4" facs="tcp:156275:3"/>
+               <!-- PDF PAGE 105 -->compelled and led them into theſe actions of undutifullneſſe and diſloyalty towards Us; And We do therefore hereby offer Our free and graci<g ref="char:EOLhyphen"/>ous Pardon to all the Inhabitants of our ſaid County of <hi>Southampton,</hi> for all offences concer<g ref="char:EOLhyphen"/>ning the premiſes committed againſt Us before the publiſhing of this Our Proclamation, except Sir <hi>Thomas Larviſe,</hi> Sir <hi>William Waller</hi> Knights, and <hi>Richard Norton</hi> Eſquire, againſt all which Wee ſhall proceed according to the Rules of the Law, as againſt Traitors and ſtirrers of ſedition againſt Us, And whom We do hereby require all Our Officers and Miniſters of juſtice, and all Our lo<g ref="char:EOLhyphen"/>ving Subjects whatſoever, to apprehend and cauſe to be kept in ſafe cuſtody till Our pleaſure be further known. Provided that this our grace ſhall not extend to any perſon, who after the pub<g ref="char:EOLhyphen"/>liſhing this Our Proclamation ſhall preſume by Loane or contribution to aſſiſt the ſaid Army of Rebels, to aſſemble and muſter themſelves in armes without authority derived from Us under Our hands, to enter into any oath of Aſſociation for oppoſing of Us and Our Army, or to ſuccour or entertain any of the perſons excepted in this Our Proclamation, or in Our Declaration of the 12. of <hi>Auguſt.</hi> But We muſt and do declare, That
+<pb n="5" facs="tcp:156275:3"/>
+               <!-- PDF PAGE 105 -->whoſoever ſhall hence forward be guilty of the premiſes, or of either of them, ſhall be eſteemed by Us as an enemy to the publike peace, a perſon diſaffected to Us, and to the Religion and Laws of the Kingdome, and ſhall accordingly receive condign puniſhment, of which We give them timely notice, that they may proceed according<g ref="char:EOLhyphen"/>ly at their perills. And We do hereby will and require our high Sheriff, Juſtices of the peace, and all other Our officers, and loving Subjects, to re<g ref="char:EOLhyphen"/>ſiſt, oppoſe, and apprehend all ſuch perſons as ſhall preſume to make any Leavies in that Our County, under what pretence ſoever without authority derived from Us under our hand. And We likewiſe will and require them and every of them to be aſſiſtant to all ſuch as ſhall either command the Train Bands of that Our County, or make any Leavies in the ſame by vertue of Commiſſion under Our great Seale or Signe Manuall.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Reading,</hi> 
+                  <date>this 28 of November in the eighteenth yeer of Our Raign.</date>
+               </dateline>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+         <div type="royal_proclamation">
+            <pb n="6" facs="tcp:156275:4"/>
+            <!-- PDF PAGE 106 -->
+            <head>By the King.</head>
+            <head type="sub">A Proclamation of His Majeſties Grace Fa<g ref="char:EOLhyphen"/>vour, and Pardon, to the Inhabitants of His County of <hi>Dorſett.</hi>
+            </head>
+            <p>WHereas We have taken notice, that by the Malice, Induſtry and importunity of ſe<g ref="char:EOLhyphen"/>verall ill-affected and ſeditious perſons in Our County of <hi>Dorſet,</hi> very many of Our weak and ſeduced Subjects of that Our County have not only been drawn to everciſe the <hi>Militia,</hi> under colour of a pretended Ordinance, without and againſt Our Conſent (a Crime of a very high nature, if We ſhould ſtrictly enquire thereinto) but have made Contributions of Plate, Money and Horſes towards the maintenance of the Ar<g ref="char:EOLhyphen"/>my now in Rebellion againſt Us; We do hereby publiſh and declare, That We are graciouſly plea<g ref="char:EOLhyphen"/>ſed to attribute the crimes and offences of Our ſaid Subjects of that County to the power and Faction of their ſeducers, Who, We believe, by Threats, Menaces, and falſe informations com<g ref="char:EOLhyphen"/>pelled and led them into theſe actions of undu<g ref="char:EOLhyphen"/>tifullneſſe and diſloyalty towards Us; And Wee
+<pb n="7" facs="tcp:156275:4"/>
+               <!-- PDF PAGE 106 -->do therefore hereby offer Our free and gracious Pardon to all the Inhabitants of Our ſaid Coun<g ref="char:EOLhyphen"/>ty of <hi>Dorſet,</hi> for all offences concerning the pre<g ref="char:EOLhyphen"/>miſes committed againſt Us before the publi<g ref="char:EOLhyphen"/>ſhing of this Our Ptoclamation, except <hi>Denzill Hollis</hi> Eſquire, and Sir <hi>Walter Earle</hi> Knight, againſt whom We ſhall proceed according to the Rules of the Law, as againſt Traitours and ſtirrers of ſedition againſt Us, And whom We do hereby require all Our Officers and Miniſters of juſtice, and all Our loving Subjects whatſoever, to ap<g ref="char:EOLhyphen"/>prehend, and cauſe to be kept in ſafe cuſtody till Our pleaſure be further known. Provided that this Our Grace ſhall not extend to any perſon, who after the publiſhing this Our Proclamati<g ref="char:EOLhyphen"/>on ſhall preſume by Loane or contribution to a<g ref="char:EOLhyphen"/>ſiſt the ſaid Army of Rebels, to aſſemble and muſter themſelves in Arms without authority derived from Us under Our hand; to enter into any oath of aſſociation for oppoſing Us and our Army, or to ſuccour or entertain any of the per<g ref="char:EOLhyphen"/>ſons excepted in this Our Proclamation, or in Our Declaration of the 12 of <hi>Auguſt.</hi> But we muſt and do declare, That whoſoever ſhall hence for<g ref="char:EOLhyphen"/>ward be guilty of the premiſes, or of either of them; ſhall be eſteemed by Us as an enemy to the
+<pb n="6" facs="tcp:156275:5"/>
+               <!-- PDF PAGE 107 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:156275:5"/>
+               <!-- PDF PAGE 107 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:156275:6"/>
+               <!-- PDF PAGE 108 -->publike peace, a perſon diſaffected to Us, and to the Religion and Lawes of the Kingdome; and ſhall accordingly receive condign puniſhment, of which We give them timely notice, that they may proceed accordingly at their perills. And We do hereby will and require our high Sheriff; Commiſsioners of <hi>Array,</hi> Iuſtices of the peace, and all other Our officers, and loving Subjects to reſiſt, oppoſe, and apprehend all ſuch Per<g ref="char:EOLhyphen"/>ſons as ſhall preſume to make any leavies in that Our County, under what pretence ſoever without authority derived from Us under Our hand. And We likewiſe will and require them and every of them to be aſſiſtant to all ſuch as ſhall either command the Trained-bands of that Our County, or make any Leavies in the ſame by vertue of Commiſsion under Our great Seal or ſigne Manuall.</p>
+            <closer>
+               <dateline>Given ar Our Court at <hi>Oatlands,</hi> 
+                  <date>this ſixteenth day of No<g ref="char:EOLhyphen"/>vember, in the eighteenth yeer of Our Raign.</date>
+               </dateline>
+               <lb/>
+God ſave the King.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
